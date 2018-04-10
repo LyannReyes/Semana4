@@ -1,0 +1,88 @@
+header img{
+	float: center;
+	width: 1339px;
+	height: 500px;
+	padding: 0px 5px;
+	position: relative;
+	background-color: SandyBrown;
+}
+
+h1{
+	display:block;
+	/*opacity: 0.6;*/
+	/*background-color: Wheat;*/
+	background-color: rgba(244, 164, 96, 0.5);
+	position: absolute;
+	top: 150px;
+	left: 450px;
+	font-family: "Script MT";
+	color: Wheat;
+	text-align: center;
+	font-size: 57px;
+}
+
+nav{
+	display: block;
+	list-style-type: none;
+	text-decoration: none;
+	background-color: Sienna;
+	text-align: center;
+	padding: 5px 0px;
+}
+
+li a{
+	margin-left: 3px;
+	margin-right: 3px;
+	font-size: 40px;
+	color: SandyBrown;
+	text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #FFDAB9;
+    color: Sienna;
+}
+
+
+#articlec{
+	color: Sienna;
+	display: block;
+	background-color: SandyBrown;
+	height: 500px;
+	padding: 10px 40px;
+	float: left;
+	width: 600px;
+	font-family: "SP Marker Font";
+	font-size: 22px;
+	position: absolute;
+
+}
+
+
+ #articleb{
+ 	color: Sienna;
+ 	display: block;
+ 	background-color: SandyBrown;
+ 	height: 500px;
+ 	padding: 10px 40px;
+	float: right;
+	width: 600px;
+	font-family: "SP Marker Font";
+	font-size:22px;
+	position: relative;
+}
+
+.chocolate {
+	font-size: 30px;
+	padding: 0px 5px;
+}
+
+footer{
+	margin-top: 520px;
+	padding: 5px 0px;
+	color: SandyBrown;
+	background-color: Sienna;
+	font-size: 20px;
+
+}
